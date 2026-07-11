@@ -1,10 +1,10 @@
 print("===== Challange Game =====")
 print("Guess the correct number\n")
 n = int(input("Enter Your first guess from 1 to 50 (5 lives left)"))
-while n >7 or n <9:
+while (n >7 and n <9):
     if n == 8:
         print("You Won well done")
-    elif n <20  :
+    elif n <7  :
         print("You are close its under 20  ")
         int(input("Enter your next guess"))
     elif n >=30:

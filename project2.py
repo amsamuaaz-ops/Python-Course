@@ -14,5 +14,10 @@ box = 25
 store_points = totalstarpoints//box
 left_overstars = totalstarpoints % box
 
-lastweek = 270
+lastweek = 240
+thisweek = 270
+if thisweek > lastweek:
+    print("This week has greater points then last week")
+else:
+    print("This week has lesser points then the last week")
 

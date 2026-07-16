@@ -1,4 +1,4 @@
-print("Right Angle Triangle\n")
+print("Square\n")
 
 n = int(input(" Enter your Rows"))
 

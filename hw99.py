@@ -10,7 +10,7 @@ print("Full Library Stock:", library)
 available_books = [book for book in books if library[book] > 0]
 print("Books Available:", available_books)
 
-# PART 4: Ask the reader which book they want to borrow
+
 chosen_book = input("Which book do you want to borrow? ")
 
 # PART 5: Stop the checker early if the chosen book is not available

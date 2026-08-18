@@ -10,4 +10,4 @@ foo = myname()
 
 foo.hello()
 
-foo.__priv_meth()
+foo.__priv_meth

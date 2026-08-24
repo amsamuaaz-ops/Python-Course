@@ -25,3 +25,5 @@ obj1 = car("E18","1971","BMW",150)
 
 obj1.show_details()
 obj1.fuel_type()
+
+print("is car an issubclass of veical ",issubclass(car,veichel))

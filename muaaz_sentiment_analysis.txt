@@ -1,0 +1,6 @@
+Sentiment Analysis Report for muaaz
+----------------------------------------
+Positive Sentiments: 0
+Negative Sentiments: 0
+Neutral Sentiments: 1
+Total Sentences Analyzed: 1
